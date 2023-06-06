@@ -1,4 +1,4 @@
-/*
+
 -- set 5
 select * from sys.databases;
 use LEarning;
