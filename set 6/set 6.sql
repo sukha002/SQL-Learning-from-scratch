@@ -1,6 +1,6 @@
 -- set 6
 
-/*
+
 select * 
 from sys.databases;
 
